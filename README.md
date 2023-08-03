@@ -36,3 +36,8 @@ $$
 cos^4{x} \\sin{x}
 $$ 
 ```
+
+$f cos^4{x} \\sin{x} dx$
+```
+$f cos^4{x} \\sin{x}$
+```
