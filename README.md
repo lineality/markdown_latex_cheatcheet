@@ -53,7 +53,7 @@ $\\int_{0}^{9}(|5-x|+|3-3 x|) d x=$
 $\\int_{0}^{9}(|5-x|+|3-3 x|) d x=$
 ```
 
-$\\int \left(\frac{5+x^{3/4}}^9{x^{1/4}\right) d x$
+$\\int \left(\frac{5+x^{3/4}}^9{x^{1/4}}\right) d x$
 ```
 $\\int \left(\frac{5+x^{3/4}}^9{x^{1/4}\right) d x$
 ```
