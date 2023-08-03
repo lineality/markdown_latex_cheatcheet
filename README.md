@@ -43,7 +43,7 @@ cos^4{x} \\sin{x}
 $$ 
 ```
 
-$\\frac cos^4{x} \\sin{x} d x$
+$\\int \\cos ^{4}(x) \\sin (x) d x=$
 ```
-$\\frac cos^4{x} \\sin{x} d x$
+$\\int \\cos ^{4}(x) \\sin (x) d x=$
 ```
