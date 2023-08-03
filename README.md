@@ -58,8 +58,9 @@ $\\int \\frac{\\left(2+x^{3 / 7}\\right)^{5}}{\\left(x^{1 / 3}\\right)} d x$
 $\\int \\frac{\\left(2+x^{3 / 7}\\right)^{5}}{\\left(x^{1 / 3}\\right)} d x$
 ```
 
-$\\left\\{\\begin{array}{l}f(x)=\\frac{\\sqrt{4 x+4}-\\sqrt{2 x+4}}{2 x} \\\\ f(0)=C\\end{array}\\right.$
+$\\left\\{\\begin{array}{l}f(x)=\\frac{\\sqrt{4 x+4}-\\sqrt{2 x+4}}{2 x} \\ f(0)=C\\end{array}\\right.$
 ```
-$\\left\\{\\begin{array}{l}f(x)=\\frac{\\sqrt{4 x+4}-\\sqrt{2 x+4}}{2 x} \\\\ f(0)=C\\end{array}\\right.$
+$\\left\\{\\begin{array}{l}f(x)=\\frac{\\sqrt{4 x+4}-\\sqrt{2 x+4}}{2 x} \\ f(0)=C\\end{array}\\right.$
+vs.
 $\\left\\{\\begin{array}{l}f(x)=\\frac{\\sqrt{4 x+4}-\\sqrt{2 x+4}}{2 x} \\\\ f(0)=C\\end{array}\\right.$
 ```
