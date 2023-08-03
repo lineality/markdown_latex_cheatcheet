@@ -47,3 +47,6 @@ $\\int \\cos ^{4}(x) \\sin (x) d x=$
 ```
 $\\int \\cos ^{4}(x) \\sin (x) d x=$
 ```
+
+$\\frac{d}{d x} \\int_{3}^{2 x} \\sin \\left(t^{2}+1\\right) d t=$
+
