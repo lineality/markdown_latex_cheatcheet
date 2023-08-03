@@ -53,9 +53,7 @@ $\\int_{0}^{9}(|5-x|+|3-3 x|) d x=$
 $\\int_{0}^{9}(|5-x|+|3-3 x|) d x=$
 ```
 
-$\\int \\frac{\\left(5+x^{3 / 4}\\right)^{9}}{\\left(x^{1 / 4}\\right)} d x$
+$\\int \\frac{\\left(2+x^{3 / 7}\\right)^{5}}{\\left(x^{1 / 3}\\right)} d x$
 ```
-$\\int \\frac{\\left(5+x^{3 / 4}\\right)^{9}}{\\left(x^{1 / 4}\\right)} d x$
-not
-$\\int \left(\frac{5+x^\\frac{3}{4}}^9{x^\\frac{1}{4}}\right) d x$
+$\\int \\frac{\\left(2+x^{3 / 7}\\right)^{5}}{\\left(x^{1 / 3}\\right)} d x$
 ```
