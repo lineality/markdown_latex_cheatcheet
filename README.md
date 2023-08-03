@@ -29,9 +29,9 @@ $f(x)=3 x^{2} \\sin (x)+\\frac{1}{x} \\tan (x)+x \\sec (x)+1$
 ```
 
 
-$\\frac{d}{d x} \\int_{3}^{2 x} \\sin \\left(t^{2}+1\\right) d t=$
+$\\frac{d}{d x} \\int_{4}^{1 x} \\sin \\left(t^{2}+3\\right) d t=$
 ```
-$\\frac{d}{d x} \\int_{3}^{2 x} \\sin \\left(t^{2}+1\\right) d t=$
+$\\frac{d}{d x} \\int_{4}^{1 x} \\sin \\left(t^{2}+3\\right) d t=$
 ```
 
 $$
@@ -43,7 +43,7 @@ cos^4{x} \\sin{x}
 $$ 
 ```
 
-$f cos^4{x} \\sin{x} dx$
+$\\frac cos^4{x} \\sin{x} d x$
 ```
-$f cos^4{x} \\sin{x}$
+$\\frac cos^4{x} \\sin{x} d x$
 ```
