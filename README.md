@@ -27,3 +27,8 @@ $f(x)=3 x^{2} \\sin (x)+\\frac{1}{x} \\tan (x)+x \\sec (x)+1$
 ```
 $f(x)=3 x^{2} \\sin (x)+\\frac{1}{x} \\tan (x)+x \\sec (x)+1$
 ```
+
+$cos^4{x} \\sin{x}$ 
+```
+$cos^4{x} \\sin{x}$ 
+```
